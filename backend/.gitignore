@@ -1,0 +1,6 @@
+# Backend ignores
+.env
+uploads/covers/*
+!uploads/covers/.gitkeep
+vendor/
+*.log

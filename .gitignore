@@ -73,3 +73,11 @@ yarn-error.log
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+
+# Backend
+backend/.env
+backend/public/uploads/covers/*
+!backend/public/uploads/covers/.gitkeep
+
+# Plan
+plan.md
